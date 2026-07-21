@@ -9,7 +9,7 @@ Software Engineering student at Auburn University.
 ### Selected work
 
 - [**JudgeLock**](https://github.com/fernando-ace/JudgeLock) - Test-integrity firewall for AI coding agents.
-- [**EventFilm**](https://github.com/fernando-ace/EventFilm) - Account-free shared event photo albums.
+- [**EventFilm**](https://eventfilm.vercel.app/) - Account-free shared event photo albums.
 - [**Auburn Academic Planner**](https://github.com/fernando-ace/Auburn-Academic-Planner) - Source-grounded Degree Works planning.
 
 **ICPC UWF 2025 || 3rd 🥉**
